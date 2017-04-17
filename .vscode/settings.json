@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/._*": true,
+    "**/.*": true,
+    "**/*.json": true,
+    "**/*.js": true,
+    "src/*.ts": true,
+    "src/*.json": true,
+    "src/environments": true,
+    "**/*.spec.ts": true,
+    "node_modules/": true,
+    "e2e": true
+  }
+}
