@@ -8,7 +8,7 @@
     "src/*.json": true,
     "src/environments": true,
     "**/*.spec.ts": true,
-    "node_modules/": true,
+    // "node_modules/": true,
     "e2e": true
   }
 }
